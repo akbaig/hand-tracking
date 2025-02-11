@@ -21,4 +21,9 @@ If you run out of health points (hearts), you lose the game.
 
 ## Credits
 
+- Halidu Abdulai
+- Ahmad Kamal Baig
+
+## Demo 
+
 ![Demo Image](demo_img.png)
